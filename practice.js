@@ -195,3 +195,4 @@ var applyCoupon = function(groceries, coupon) {
   });
   return output;
 };
+
